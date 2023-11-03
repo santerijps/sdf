@@ -1,0 +1,4 @@
+people (name; age) [
+  Alice; 30
+  Bob; 50
+]
